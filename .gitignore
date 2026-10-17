@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated outputs (keep samples/* tracked)
+fluke_report.pdf
+DSP_Reports.json
+DSP_Reports.pdf
+DSP_Display_screenshot.png
+raw_capture.txt
+*.log

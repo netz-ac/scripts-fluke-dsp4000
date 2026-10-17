@@ -1,0 +1,9 @@
+@                                                 NETZ.AC E.V.
+
+Cable ID:                         Date / Time:                         SITE:      Length(m)   Summary:
+AB                      01/01/2000  12:51:17am                   Client Name            0.0       PASS
+ACCCCCC                 01/01/2000  02:18:30pm                   Client Name            0.0       PASS
+F                       01/01/2000  02:25:08pm                   Client Name            0.0       FAIL
+
+                                                                   Total Length:        0.0
+
